@@ -14,6 +14,7 @@
 ###### `2021.09~2022.06` AR기반 활동량 증진 캐릭터 양육 게임
 ###### `2022.03~2022.06` 영수증 OCR 인식 및 카테고리 자동분류 가계부 앱 (우수상 수상)
 ###### `2022.06~` 이은교육 주식회사 앱개발프로젝트 CTO
+###### `2022.07~08` NHN commerce 개발자양성과정 수료
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmy&hide=Jupyter%20Notebook&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
