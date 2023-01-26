@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HEY!%20I'm%20Hyerim!&fontSize=90&fontAlignY=38&desc=hyerimmy%20GITHUB!&descAlignY=51&descAlign=79&idx=13)
+</br></br></br></br>
+<img src="https://capsule-render.vercel.app/api?text=Hyerim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwang&fontColor=d6ace6&type=soft&color=FFFFFF&animation=Transparent&fontSize=100"/></center>
+<img src="https://capsule-render.vercel.app/api?text=Backend-Developer&fontColor=d6ace6&type=soft&color=FFFFFF&animation=Transparent&fontSize=20&fontAlign=15"/>
+
+
 
 ## 🦄 ᴀʙᴏᴜᴛ ᴍᴇ
 ###### 💻 **Backend-Developer**
