@@ -20,6 +20,7 @@
 ###### `2022.06~` 이은교육 주식회사 앱개발프로젝트 CTO
 ###### `2022.07~08` NHN commerce 개발자양성과정 수료
 ###### `2022.09~` UMC 3기 Server(Springboot) 챌린저  
+###### `2022.01~` 폐기상품 무료나눔 iOS앱 Springboot 서버개발  
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmy&hide=Jupyter%20Notebook&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
