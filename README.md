@@ -1,6 +1,6 @@
 </br></br></br></br>
 <img src="https://capsule-render.vercel.app/api?text=𝗛𝘆𝗲𝗿𝗶𝗺&fontColor=d6ace6&type=soft&color=FFFFFF&animation=Transparent&fontSize=100"/></center>
-<img src="https://capsule-render.vercel.app/api?text=Backend-Developer&fontColor=d6ace6&type=soft&color=FFFFFF&animation=Transparent&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?text=Backend-Developer&fontColor=d6ace6&type=soft&color=transparent&animation=Transparent&fontSize=20"/>
 
 
 <img src="https://i.pinimg.com/564x/b5/31/23/b53123873931e83ed3aab77adec3b281.jpg" align="right" height="300px" width="300px"/>
