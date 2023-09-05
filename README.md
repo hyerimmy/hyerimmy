@@ -2,6 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?text=𝗛𝘆𝗲𝗿𝗶𝗺🌩️&fontColor=50bcdf&type=soft&color=FFFFFF&animation=Transparent&fontSize=100&&desc=Backend-Developer&descSize=20&descAlign=50&descAlignY=90"/></center>
 <br/><br/><br/>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmy&layout=compact)](https://github.com/hyerimmy/github-readme-stats)
+![hyerimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyerimmy&show_icons=true&theme=radical)
 <img src="https://i.pinimg.com/564x/b5/31/23/b53123873931e83ed3aab77adec3b281.jpg" align="right" height="300px" width="300px"/>
 
 ```ruby
