@@ -3,7 +3,7 @@
 <br/><br/><br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmy&hide=jupyter+notebook&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmy&hide=jupyter+notebook&layout=compact&theme=blue-green)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyerimland)](https://solved.ac/hyerimland)
 
@@ -17,7 +17,18 @@
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" /> Skills
-- 추가예정
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></t>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/정보처리기사-CEF279?style=for-the-badge&logo=coveralls&logoColor=black"/> </t>
+<img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
+<img src="https://img.shields.io/badge/리눅스마스터2급-B2EBF4?style=for-the-badge&logo=coveralls&logoColor=black"/>
+<img src="https://img.shields.io/badge/네트워크관리사2급-FFAAE7?style=for-the-badge&logo=coveralls&logoColor=black"/>
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Activities
