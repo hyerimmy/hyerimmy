@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
-
 <img src="https://img.shields.io/badge/정보처리기사-CEF279?style=for-the-badge&logo=coveralls&logoColor=black"/> </t>
 <img src="https://img.shields.io/badge/SQLD-FAED7D?style=for-the-badge&logo=coveralls&logoColor=black"/>
 <img src="https://img.shields.io/badge/리눅스마스터2급-B2EBF4?style=for-the-badge&logo=coveralls&logoColor=black"/>
