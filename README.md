@@ -40,7 +40,7 @@
 - 한동대 자율주행자동차 학술대회 인기상 🙋🏼🏅 <sup>2021-05 * 2021-08
 - AR기반 활동량 증진 캐릭터 양육 게임 <sup>2021-09 * 2022-06
 - 영수증 OCR 인식 및 카테고리 자동분류 가계부 앱 우수상 🏅 <sup>2022-03 * 2022-06 
-- NHN commerce 개발자양성과정 수료 <sup>2022-07 * 2023-08
+- NHN commerce 개발자양성과정 수료 <sup>2022-07 * 2022-09
 - UMC 3기 Server-Springboot 챌린저 <sup>2022-09 * 2022-12
 - 폐기상품 무료나눔 Reborn (iOS App) Springboot 개발 🙋🏼 <sup>2022-01 * 2023-02
 - 영수증촬영 가계부앱 WONshot (iOS App) Springboot 개발 🙋🏼 <sup>2023-04 * ing
