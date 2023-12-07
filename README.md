@@ -5,7 +5,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmy&hide=jupyter+notebook&layout=compact&theme=blue-green)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyerimland)](https://solved.ac/hyerimland)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyerimland)](https://solved.ac/hyerimland)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Experience
