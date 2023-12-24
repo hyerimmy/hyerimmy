@@ -10,7 +10,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Experience
 - 한국정보보호경영연구소 백엔드 개발자 인턴 <sup>2023-03 * 2023-08</sup>
-	<br> - 클라우드 인프라 취약점 진단 서비스 ‘CS Checker’ 백엔드 개발
+	<br> - 클라우드 인프라 취약점 진단 웹서비스 ‘CS Checker’ 백엔드 개발
 
 - 이은교육 주식회사 앱개발 프로젝트 PM <sup>2022-06 * 2023-02</sup>
 	<br> - mannerlody 안드로이드 앱개발 프로세스 및 DB 관리
