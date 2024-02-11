@@ -44,5 +44,6 @@
 - UMC 3기 Server Springboot 챌린저 <sup>2022-09 * 2022-12
 - 폐기상품 무료나눔 Reborn (iOS App) Springboot 개발 🙋🏼 <sup>2022-01 * 2023-02
 - 영수증촬영 가계부앱 WONshot (iOS App) Springboot 개발 🙋🏼 <sup>2023-04 * ing
+- 하나금융 Digital Hana 路 교육 <sup>2024-01 * ing
 
 `🙋🏼 ʟᴇᴀᴅᴇʀ` `🏅 ᴘʀɪᴢᴇ`
