@@ -13,7 +13,7 @@
 	<br> - 클라우드 인프라 취약점 진단 웹서비스 ‘CS Checker’ 백엔드 담당
 
 - 이은교육 주식회사 앱개발 프로젝트 PM <sup>2022-06 * 2023-02
-	<br> - mannerlody 안드로이드 앱 개발 프로세스 총괄 및 DB 관리
+	<br> - mannerlody 안드로이드 앱 개발 프로세스 총괄(기획서, 개발협력사 컨택, 피드백) 및 DB 관리
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" /> Skills
