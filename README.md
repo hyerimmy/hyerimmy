@@ -44,7 +44,7 @@
 - NHN commerce 개발자양성과정 수료 <sup>2022-07 * 2022-09
 - UMC 3기 Server Springboot 챌린저 <sup>2022-09 * 2022-12
 - 폐기상품 무료나눔 Reborn (iOS) Springboot 개발 🙋🏼 <sup>2022-01 * 2023-02
-- 하나금융 Digital Hana 路 교육 <sup>2024-01 * ing
+- 하나금융 Digital Hana 路 교육 <sup>2024-01 * 2024-06
 - Redis를 활용한 교실 소통 플랫폼, Claksion Springboot 개발 🙋🏼 <sup>2024-04 * 2024-05
 - 유언대용신탁이 가능한 시니어 오픈뱅킹웹 풀스택(React, Springboot) 개발 🙋🏼 <sup>2024-05 * 2024-06
 
